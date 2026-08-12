@@ -31,11 +31,12 @@ I developed an interactive **Etsy Market & Data Patterns Dashboard in Power BI**
 
 The dashboard provides a visual overview of Etsy's historical stock performance, trading activity, technical indicators, sentiment, and forecasted stock-price behavior.
 
+
 <p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiMWEzNWFiYzMtOTEzOS00YTIwLTgwY2EtMDBkY2ZiZjgxNDliIiwidCI6ImE3MTQwZjc1LWIzZmUtNDlmMy04ODlhLTQ4ZWVlZmQxZmViYSJ9">
     <img width="650"
          alt="Etsy Market and Data Patterns Power BI Dashboard"
-         src="https://github.com/user-attachments/assets/849a1a2f-1a7b-432f-8cbb-c570b832d9df" />
+         src="https://github.com/user-attachments/assets/579aaa04-737c-410d-acde-bc396ec22a84" />
   </a>
 </p>
 
