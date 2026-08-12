@@ -1,0 +1,1 @@
+# Etsy_Market_Data_Patterns_Analysis
